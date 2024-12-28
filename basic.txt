@@ -1,0 +1,93 @@
+Related TO PR
+INC number :
+ https://shelllanextgen.visualstudio.com/Shell%20Lube%20Analyst%20Nextgen
+VSTS BUG LINK:
+ 
+PR LINK: 
+create new branch in local  - push chnages - create task in deops  
+We can see that the user – Irfan-Ali.Khan@shell.com is a Shell Support Admin. Shell Support Admin users won’t be able to be a Account Manager.
+But we can change the User type of this user to Shell Technical Manager inorder to proceed further on this case. So, can you confirm if 
+we can proceed with this user type change?
+ 
+
+Upon checking we could see like a Shell Sales Manager would not be able to be an Account Manager for a Customer
+but a Shell Technical Manager can be able to become an Account Manager. 
+So, can you provide your confirmation if we can proceed with the user type change and then do the further steps?
+
+
+
+AB#79639
+
+satyendra kumar for azure cloud
+
+
+
+need to raise access for azure pre-prod and bt
+
+lang-preprod-sql-001.database.windows.net
+lang-preprod-db-olap
+
+1.githlink and azurevisualstudio link
+
+79745 label isue
+
+#13156 PR 
+
+qa,punavle,ravet, baner phata, anika picademy ,akurdi 
+
+
+country servicenter association id needs to check
+
+country 
+
+customermastertable 
+
+27th anguar KT
+
+one plus..
+
+00140483/ECO
+
+duplicate modelid.. lacode.. raga tanning cream 
+
+Sql.Database("lang-prod-sql-001.database.windows.net", "lang-prod-db-olap"
+
+PRB0073450
+
+PTASK0026587
+
+AB#80557 search LA code number issue by Sagar-OpsTeam · Pull Request #13440 · sede-x/Shell-DS-LANextGen (github.com)
+
+https://my.shell.com/personal/sagar_bhuvad_shell_com/Documents
+order number
+29203,
+29204
+
+"https://shellpreprodazurestorage.blob.core.windows.net/sample-6630201/100258934.jpg?sv=2021-08-06&se=2023-09-08T15%3A57%3A45Z&sr=b&sp=r&sig=bwtB1dwEvTrmkL7Y8xZZ39Z%2BY4tHi%2FFNWFu%2FCs%2Blnlg%3D"
+
+
+src="https://shellpreprodazurestorage.blob.core.windows.net/sample-6641307/harass.PNG 
+https://shellpreprodazurestorage.blob.core.windows.net/sample-6641307/harass.PNG?sv=2021-08-06&se=2023-09-08T11%3A34%3A06Z&sr=b&sp=r&sig=a3x8wOePZBnCLrAwNq0rbGWZpJwAJnnsP1aXOXqavts%3D"
+
+
+https://shellprodazurestorage.blob.core.windows.net/sample-6668734/320067368.jpg https://shellpreprodazurestorage.blob.core.windows.net/sample-6668734/320067368.jpg?sv=2021-08-06&se=2023-09-08T11%3A45%3A23Z&sr=b&sp=r&sig=63OhBlI7fJENEqhgHZwleYHgwfAw17AIsVSRw3hTPCs%3D
+
+https://shellprodazurestorage.blob.core.windows.net/sample-6606238/MicrosoftTeams-image %281%29.png 
+https://shellbtazurestorage.blob.core.windows.net/sample-6606238/MicrosoftTeams-image %25281%2529.png?sv=2021-08-06&se=2023-09-08T11%3A41%3A01Z&sr=b&sp=r&sig=yrPQVqzS3y%2F93ZYNleRrf6I49KUNXDM9kWp3E%2Ftt0Ic%3D
+
+DECLARE     @SampleIds	as[LubeAnalyst].[udt_longlist] ;
+DECLARE 	@UserEntities as [LubeAnalyst].[udt_longlist]  ; 
+DECLARE 	@UserVesselEntities as [LubeAnalyst].[udt_longlist] ;
+DECLARE     @IsAdmin BIT;
+DECLARE 	@IsVendoruser BIT;
+DECLARE 	@LanguageId INT;
+
+INSERT INTO @SampleIds values(6899005);
+ 
+SET  @IsAdmin=1;
+ 
+SET @IsVendoruser=1;
+ 
+SET @LanguageId  =0;
+
+exec [LubeAnalyst].[Usp_GetSampleSubscribers] @SampleIds ,@UserEntities, @UserVesselEntities,@IsAdmin,	@IsVendoruser ,@languageId
